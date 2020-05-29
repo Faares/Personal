@@ -13,7 +13,7 @@ By now, I decided to make it open source.
 
 
 ## Project Structure
-* **App**: contains all business files used in the app.
+* **app**: contains all business files used in the app.
   * **databases**: contains all JSON files that serve as a database.
   * **frontend**: contains all the themes directories.
     * **example**: an example template for themes.
