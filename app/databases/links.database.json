@@ -1,0 +1,31 @@
+{
+  "links":[
+    {
+      "title":"Blog",
+      "url":"//blog.example.com",
+      "attrs":{},
+      "dropdown":[]
+    },
+    {
+        "title":"CV",
+        "url":"//example.com/CV.pdf",
+        "attrs":{},
+        "dropdown":[]
+    },
+    {
+      "title":"Works",
+      "url":"/works",
+      "attrs":{},
+      "dropdown":[]
+    },
+    {
+      "title":"Contact",
+      "url":"#inpage-href",
+      "attrs":{},
+      "dropdown":[ 
+          {"title":"PGP","url":"//path/to/pgp/pgp.txt","icon":"lock"},
+          {"title":"Email","url":"//path/to/email/url","icon":"envelope"}
+      ]
+    }
+  ]
+}

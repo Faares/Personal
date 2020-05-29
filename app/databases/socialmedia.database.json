@@ -1,0 +1,20 @@
+{
+  "social_media":
+  [
+    {
+      "url":"//github.com/example",
+      "title":"GitHub",
+      "icon":"github-square"
+    },
+    {
+        "url":"//twitter.com/example",
+        "title":"Twitter",
+        "icon":"twitter-square"
+    },
+    {
+        "url":"//linkedin.com/example",
+        "title":"Linkedin",
+        "icon":"linkedin-square"
+    }
+  ]
+}
