@@ -6,7 +6,7 @@ by now, I decide to make it open source.
 ## Feature's
 1. Easy to configure.
 2. Multi & Custom themes system.
-3. JSON files as databases: support custom structure to fit with theme files, no SQL database needed! check `app/databases` for more details.
+3. JSON files as databases: support custom structure's to fit with theme files, no SQL database needed! check `app/databases` for more details.
 4. HTTP(s) routing: support `404 Not Found` custom handler, and callback function after handling the request.
 5. `DEBUG_MODE` configuration support.
 6. There exist some configurations for future features like uploading, SQL database, custom routing.
