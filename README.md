@@ -1,4 +1,4 @@
-# Personal.
+# Personal
 this repository contains old software that I used to serve my website between 2014-2017. I develop it when I was young ~17 years old, it was one of the "greatest" achievements at that age.
 
 by now, I decide to make it open source.
@@ -9,7 +9,7 @@ by now, I decide to make it open source.
 3. JSON files as databases: support custom structure to fit with theme files, no SQL database needed! check `app/databases` for more details.
 4. HTTP(s) routing: support `404 Not Found` custom handler, and callback function after handling the request.
 5. `DEBUG_MODE` configuration support.
-6. There exist some configurations for future features, like Uploading, SQL database, Custom Routing.
+6. There exist some configurations for future features like uploading, SQL database, custom routing.
 
 
 ## Project Structure
