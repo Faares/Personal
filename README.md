@@ -1,5 +1,5 @@
 # Personal.
-this repository contains old software that I used to serve my personal website between 2014-2017. I develop it when I was young ~17 years old, it was one of the "greatest" achievements at that age.
+this repository contains old software that I used to serve my website between 2014-2017. I develop it when I was young ~17 years old, it was one of the "greatest" achievements at that age.
 
 by now, I decide to make it open source.
 
@@ -13,19 +13,19 @@ by now, I decide to make it open source.
 
 
 ## Project Structure
-* **App**: contains all business files that used in the app.
+* **App**: contains all business files used in the app.
   * **databases**: contains all JSON files that serve as database.
   * **frontend**: contains all themes directories.
     * **example**: an example template for themes.
   * **tools**: contains libraries and classes.
   * *router.php*: here where you define HTTP routes. check it, there are some examples.
-* **bootstrap**: contains files, that needed to boot & run the script.
+* **bootstrap**: contains files that needed to boot & run the script.
   * *boot.php*: don't touch it.
-  * *configs.php*: configuratio file, here you can edit and apply your configuration.
+  * *configs.php*: configuration file, here you can edit and apply your configuration.
 
 
 ## Disclaimer
 I don't recommend using this script in production, I develop it when I was young and beginner so it could be vulnerable.
 
-## Author
+## Author 
 - [Fares](https://Faares.com), the 17 years old guy.
