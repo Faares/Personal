@@ -9,7 +9,7 @@ By now, I decided to make it open source.
 3. JSON files as a database: supports custom structures to fit with theme files, no SQL database needed! check `app/databases` for more details.
 4. HTTP(S) routing: support `404 Not Found` custom handler, and callback function after handling the request.
 5. `DEBUG_MODE` configuration support.
-6. There exist some configurations for future features, like Uploading, SQL database, Custom Routing.
+6. There exist some configurations for future features like uploading, SQL database, custom routing.
 
 
 ## Project Structure
